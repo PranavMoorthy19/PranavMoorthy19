@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Pranav%20Moorthy%20IV&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Hackathon%20Winner%20%7C%20Full%20Stack%20%26%20Cloud&descSize=18&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranav%20Moorthy%20IV&fontSize=50&fontColor=ffffff&desc=AI%20and%20Data%20Science%20Engineer&descSize=20" width="100%"/>
 
   <!-- Typing SVG Subheading -->
   <a href="https://github.com/PranavMoorthy19">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=B.Tech+AI+%26+Data+Science+@+Amrita+University;🥈+LLM+Hackathon+2nd+Prize+Winner;Multimodal+AI+%26+RAG+Systems+Builder;Deep+Learning+%7C+Computer+Vision+%7C+Azure+Cloud;Open+to+Internships+%26+Collaborations!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=B.Tech+AI+and+Data+Science;LLM+Hackathon+Winner+(2nd+Prize);Multimodal+AI+and+RAG+Systems;Computer+Vision+and+Azure+Cloud;Open+to+Internships+and+Collaborations" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -20,6 +20,7 @@
   <a href="https://github.com/PranavMoorthy19">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=PranavMoorthy19&color=blueviolet&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -32,7 +33,7 @@ Name: Pranav Moorthy IV
 Location: Chennai & Nagercoil, Tamil Nadu, India
 Education: B.Tech in Artificial Intelligence & Data Science @ Amrita Vishwa Vidyapeetham
 Internship: Ex-Data Science & Front-End Intern @ SD Innovations
-Key Honors: 🥈 2nd Prize @ LLM Hackathon (MindMatrix Navigator)
+Key Honors: 2nd Prize @ LLM Hackathon (MindMatrix Navigator)
 Interests: Generative AI, Multimodal Systems, RAG, Quantum Computing & Cloud Architecture
 Open For: AI/ML Internships, Research Collaborations, and Open Source Opportunities
 ```
@@ -90,13 +91,13 @@ Open For: AI/ML Internships, Research Collaborations, and Open Source Opportunit
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **🥈 MindMatrix Navigator** | `LLMs` `Hankel Matrices` `DMD` `Python` | **2nd Prize Winner @ LLM Hackathon**. Student stress support system with crisis detection, conversational support, and stability tracking. |
-| **📜 Heritage AI – Ancient Tamil Translation** | `Computer Vision` `Gemini Multimodal` `OpenCV` | Digitize and translate ancient Tamil stone/palm-leaf manuscripts into modern languages with integrated audio synthesis. |
-| **📄 DocQA – RAG System** | `RAG` `HNSW Indexing` `Sentence Embeddings` | Intelligent question-answering across multi-format documents (PDF, DOCX, TXT) with exact source attribution. |
-| **☁️ Cloud-Based AI Chatbot** | `Flask` `Gemini API` `Microsoft Azure` `STT` | Cloud-native multi-model conversational assistant supporting voice input, chat persistence, and live document querying. |
-| **🌿 Plant Disease Detection** | `MobileNetV2` `TensorFlow` `Streamlit` `OpenCV` | Deep learning leaf disease identification tool empowering farmers with early diagnostics. |
-| **⚛️ Secure Quantum Image Steganography** | `Qiskit` `Quantum Gates` `NEQR` `QLSB` | Conceals secret visual data within quantum states; evaluated via gate count, circuit depth, PSNR, and SSIM. |
-| **🏏 IPL Data Analytics** | `Pandas` `NumPy` `Matplotlib` `Seaborn` | Exploratory data analysis uncovering hidden match patterns, player trajectories, and winning factors across IPL seasons. |
+| **MindMatrix Navigator** | `LLMs` `Hankel Matrices` `DMD` `Python` | **2nd Prize Winner @ LLM Hackathon**. Student stress support system with crisis detection, conversational support, and stability tracking. |
+| **Heritage AI – Ancient Tamil Translation** | `Computer Vision` `Gemini Multimodal` `OpenCV` | Digitize and translate ancient Tamil stone/palm-leaf manuscripts into modern languages with integrated audio synthesis. |
+| **DocQA – RAG System** | `RAG` `HNSW Indexing` `Sentence Embeddings` | Intelligent question-answering across multi-format documents (PDF, DOCX, TXT) with exact source attribution. |
+| **Cloud-Based AI Chatbot** | `Flask` `Gemini API` `Microsoft Azure` `STT` | Cloud-native multi-model conversational assistant supporting voice input, chat persistence, and live document querying. |
+| **Plant Disease Detection** | `MobileNetV2` `TensorFlow` `Streamlit` `OpenCV` | Deep learning leaf disease identification tool empowering farmers with early diagnostics. |
+| **Secure Quantum Image Steganography** | `Qiskit` `Quantum Gates` `NEQR` `QLSB` | Conceals secret visual data within quantum states; evaluated via gate count, circuit depth, PSNR, and SSIM. |
+| **IPL Data Analytics** | `Pandas` `NumPy` `Matplotlib` `Seaborn` | Exploratory data analysis uncovering hidden match patterns, player trajectories, and winning factors across IPL seasons. |
 
 ---
 
@@ -112,8 +113,8 @@ Open For: AI/ML Internships, Research Collaborations, and Open Source Opportunit
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavMoorthy19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavMoorthy19&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PranavMoorthy19&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=PranavMoorthy19&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=PranavMoorthy19&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak" />
 </div>
